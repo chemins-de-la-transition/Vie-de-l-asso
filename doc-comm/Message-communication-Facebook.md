@@ -12,7 +12,7 @@ Si tu souhaites nous rejoindre pour contribuer au projet, n'hésite pas il y a p
 
 Si ça te chauffe :     
 - Rendez-vous sur le chat des Chemins de la Transition : https://app.element.io/#/room/#chemins-transition:matrix.virtual-assembly.org
-- On se réunit tous les lundis à 17h pour accueillir les nouveaux et partager les actus .. Ambiance décontractée, n'hésite pas à nous y rejoindre ! Le lien est annoncé sur le chat mentionné juste au-dessus ;)
+- On se réunit tous les lundis à 17h pour accueillir les nouveaux et partager les actus .. Ambiance joyeuse et décontractée, n'hésite pas à nous y rejoindre ! Le lien est annoncé sur le chat mentionné juste au-dessus ;)
 
 A très bientôt j'espère !
 Guillaume
