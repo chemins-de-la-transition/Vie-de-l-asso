@@ -1,4 +1,4 @@
-Salut et bienvenue dans le groupe des Chemins de la Transition !
+Bonjour et bienvenue dans le groupe des Chemins de la Transition !
 
 Merci beaucoup d'avoir rejoint le groupe !
 
