@@ -21,7 +21,7 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
    
 6. Lui informer du planning des réunions des CDLT
    - Tout d'abord, lui proposer de se présenter dans le [Canal général](https://riot.im/app/#/room/#chemins-transition:matrix.virtual-assembly.org) 
-   - Le faire participer à sa première réunion hebdomadaire du lundi (16h30 pour se présenter).
+   - Le faire participer à sa première réunion hebdomadaire du lundi 17h.
    - Suite à cette première réunion, l'orienter vers les réunions vie asso, plateforme et/ou parcours en fonction de ce qu'il peut apporter et des besoins de l'association.
    
 7. Veiller à ce qu'il prenne connaissance de la possibilité d'adhérer (cotisations) aux projets des CDLT.
