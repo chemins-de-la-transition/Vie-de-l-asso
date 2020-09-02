@@ -23,5 +23,6 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
    - Tout d'abord, lui proposer de se présenter dans le [Canal général](https://riot.im/app/#/room/#chemins-transition:matrix.virtual-assembly.org) 
    - Le faire participer à sa première réunion hebdomadaire du lundi 17h.
    - Suite à cette première réunion, l'orienter vers les réunions vie asso, plateforme et/ou parcours en fonction de ce qu'il peut apporter et des besoins de l'association.
+   - L'inviter à compléter le fichier des [Groupes de travail](https://docs.google.com/spreadsheets/d/1Zr5-tCLil_z2mT693Eh_L3CENJnnBTJFCUdjS5h3efo/edit#gid=0) pour se positionner selon l'envie sur un des groupes.
    
 7. Veiller à ce qu'il prenne connaissance de la possibilité d'adhérer (cotisations) aux projets des CDLT.
