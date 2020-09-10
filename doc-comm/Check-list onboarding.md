@@ -28,3 +28,6 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
    - L'informer de l'existence d'un [Google Agenda](https://calendar.google.com/calendar/r/month/2020/9/16?cid=ZnRxM2d0Nmhxa2cxcHV2aWIxcDFtdG9zZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) répertoriant réunions et évènements CDLT. Accès éditeur à demander à un membre actif.
    
 7. Veiller à ce qu'il prenne connaissance de la possibilité d'adhérer (cotisations) aux projets des CDLT.
+
+8. L'amener à suivre la communauté de l'AV sur les réseaux sociaux :
+   - [Facebook](https://www.facebook.com/groups/lescheminsdelatransition)
