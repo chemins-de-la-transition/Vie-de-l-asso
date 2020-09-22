@@ -1,6 +1,6 @@
 # <center>Accès aux différents canaux de communication Element 
 
-Les messages instantanés échangés par les contributeurs des Chemins de la Transition se reposent sur le protocole [Matrix](https://matrix.org/). Ce sont des standards ouverts qui permettent des communications sécurisés et des serveurs décentralisés.
+Les messages instantanés échangés par les contributeurs des Chemins de la Transition se reposent sur le protocole [Matrix](https://matrix.org/). Ce sont des standards ouverts qui permettent des communications sécurisées et des serveurs décentralisés.
 
 L’association héberge son propre serveur Matrix. 
 
