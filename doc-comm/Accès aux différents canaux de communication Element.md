@@ -8,7 +8,7 @@ Plusieurs applications permettent de se connecter au réseau Matrix. Le client q
 
 Tu souhaites participer aux différents projets des Chemins de la Transition et participer à la vie de sa communauté ? Voici une liste de liens vers les chats de l'association. Rejoins ceux qui t'intéressent et pour lesquels tu penses pouvoir contribuer  ! 
 
-Accède aussi à notre [agenda électronique](https://calendar.google.com/calendar/r/month/2020/9/16?cid=ZnRxM2d0Nmhxa2cxcHV2aWIxcDFtdG9zZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) te permettant d'être au courant ces réunions et évènements CDLT. Accès éditeur à demander à un membre actif.
+Accède aussi à notre [agenda électronique](https://calendar.google.com/calendar/r/month/2020/9/16?cid=ZnRxM2d0Nmhxa2cxcHV2aWIxcDFtdG9zZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) te permettant d'être tenu au courant des réunions et évènements CDLT. Accès éditeur à demander à un membre actif.
 
 
 ### <center>Salons Chemins de la Transition 
