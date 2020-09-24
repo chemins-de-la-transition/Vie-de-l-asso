@@ -2,6 +2,8 @@
 
 Support permettant à n'importe quel membre actif d'embarquer un nouveau contributeur sur les projets de l'association ! 
 
+**Lien zoom pour les réunions : https://zoom.us/j/91609759646**
+
 1. Tout d'abord, est-ce que le nouvel arrivant a pu accéder à une présentation des CDLT ? 
    - Projet de présentation mensuelle des CDLT en visio à mettre en place et à diffuser sur Facebook/Youtube par exemple.
    - Veiller à ce que le nouveau contributeur visite le [site internet des CDLT](http://lescheminsdelatransition.org).
@@ -22,7 +24,7 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
    
 6. Lui informer du planning des réunions des CDLT
    - Tout d'abord, lui proposer de se présenter dans le [Canal général](https://riot.im/app/#/room/#chemins-transition:matrix.virtual-assembly.org) 
-   - Le faire participer à sa première réunion hebdomadaire du lundi 17h.
+   - Le faire participer à sa première réunion hebdomadaire du lundi 17h. 
    - Suite à cette première réunion, l'orienter vers les réunions vie asso, plateforme et/ou parcours en fonction de ce qu'il peut apporter et des besoins de l'association.
    - L'inviter à compléter le fichier des [Groupes de travail](https://docs.google.com/spreadsheets/d/1Zr5-tCLil_z2mT693Eh_L3CENJnnBTJFCUdjS5h3efo/edit#gid=0) pour se positionner selon l'envie sur un des groupes.
    - L'informer de l'existence d'un [Google Agenda](https://calendar.google.com/calendar/r/month/2020/9/16?cid=ZnRxM2d0Nmhxa2cxcHV2aWIxcDFtdG9zZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) répertoriant réunions et évènements CDLT. Accès éditeur à demander à un membre actif.
