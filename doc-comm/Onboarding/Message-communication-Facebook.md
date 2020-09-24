@@ -4,7 +4,7 @@ Ci-dessous, quelques infos à propos des Chemins de la Transition (CdlT) et de l
 
 Les CdlT sont une asso loi 1901. Nous sommes une équipe d’une vingtaine de bénévoles.
 
-Le projet est en phase d’amorçage, la version beta de la plateforme est sur le point de sortir (d'ici fin août) et les premiers parcours sont en cours de création dans 3 régions : Grand est, Occitanie & Normandie.
+Le projet est en phase d’amorçage, la version beta de la plateforme est sur le point de sortir (d'ici début octobre 2020) et les premiers parcours sont en cours de création dans 3 régions : Grand est, Occitanie & Normandie.
 
 Parallèlement, on structure le projet : gouvernance partagée, mise en place d’un processus de contribution efficace, recherche de financements et de partenariats (métiers, locaux & institutionnels), conception de la stratégie de développement et des supports communication.
 
