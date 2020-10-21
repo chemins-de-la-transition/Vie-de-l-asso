@@ -31,4 +31,5 @@ Bienvenue sur le github destiné à la gestion des Chemins de la Transition !
 - Participer aux réunions hebdos 
 - S'impliquer sur des chantiers
 
-## Ressources partagées : **[A créer]**
+## Ressources partagées : 
+- Comptes rendus de réunion: https://docs.google.com/document/d/1zaK96H_WmfPdxUX_ZYzRh5ZUIPwnaY822Gw36UgAhh8/edit#
